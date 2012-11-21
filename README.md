@@ -1,2 +1,2 @@
-miniature-octo-bear
+This is the README file for miniature-octo-bear.
 ===================
